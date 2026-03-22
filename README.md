@@ -7,6 +7,7 @@ Implementing machine learning algorithms from scratch using NumPy for deeper und
 | Notebook | Topics Covered |
 |----------|---------------|
 | [Optimizer Assignment](notebooks/optimizer_assignment.ipynb) | Gradient Descent, SGD+Momentum, RMSProp, Adam, AdamW |
+| [Activation Functions](notebooks/activation_functions_assignment.ipynb) | Sigmoid, Tanh, ReLU, Leaky ReLU, PReLU, GELU, SiLU, Softmax, Log-Softmax, Temperature Scaling, 2-Layer Neural Net |
 
 ## Purpose
 
