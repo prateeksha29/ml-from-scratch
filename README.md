@@ -8,6 +8,7 @@ Implementing machine learning algorithms from scratch using NumPy for deeper und
 |----------|---------------|
 | [Optimizer Assignment](notebooks/optimizer_assignment.ipynb) | Gradient Descent, SGD+Momentum, RMSProp, Adam, AdamW |
 | [Activation Functions](notebooks/activation_functions_assignment.ipynb) | Sigmoid, Tanh, ReLU, Leaky ReLU, PReLU, GELU, SiLU, Softmax, Log-Softmax, Temperature Scaling, 2-Layer Neural Net |
+| [Backprop From Scratch](notebooks/backprop_from_scratch.ipynb) | Forward/Backward Pass, BCE, Cross-Entropy, Softmax, Batch Norm, L2 Regularization, Dropout, Gradient Checking, Adam, Mini-batch Training |
 
 ## Purpose
 
